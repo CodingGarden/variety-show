@@ -5,3 +5,10 @@
 * [Functional Programming](./fp.md)
 * [Recursion](./recursion.md)
 * [Debugging in Production](./debugging-production.md)
+* And more...
+  * async / await
+  * variable shadowing
+  * hydrating / dehydrating
+  * generators
+  * elegant css / html
+  * promises / .then
