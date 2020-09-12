@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "get-twitter-bearer-token": "^1.0.0",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
